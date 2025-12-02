@@ -1,0 +1,7 @@
+{
+  "name": "Career Compass AI",
+  "description": "An AI-powered motivational coach to help unemployed individuals navigate their career path. Get personalized advice, discover new opportunities, and find resources tailored to your situation, grounded with the latest information from Google Search and Maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
